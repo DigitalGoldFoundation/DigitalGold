@@ -1,15 +1,8 @@
 DigitalGold
 =====================================
-[![build](https://github.com/DigitalGoldFoundation/DigitalGoldcoin/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/DigitalGoldFoundation/DigitalGoldcoin/actions/workflows/build.yml)
 
+Digital Gold (DGD) is a private digital currency created as a hard fork of the Blackcoin proof-of-stake Layer-1 Coin.
 
-https://digitalgoldfoundation.org
+Coins are fairly distributed from the Digital Gold Foundation Treasury, using proof-of-participation, across one thousand levels of price validation, tied to DGD's Crypto Fair Value, and the Digital Gold Standard Benchmark.
 
-DigitalGold Wallet
-----------------
-
-US Digital Gold is an asset-backed private digital currency, coins in circulation will be backed in fiat currency and other conservative, stable assets.
-
-The NotFiat treasury is independently audited on a quarterly basis to ensure full transparency and accountability.
-
-DigitalGold Wallet is the name of open source software which enables the use of this currency. This is experimental version of the software, based on Bitcoin Core 26.x.
+Learn more at DigitalGoldX.com and DigitalGoldFoundation.org.
